@@ -1,0 +1,9 @@
+.contato{
+    color: rgb(108, 153, 156);
+}
+
+.btn{
+    margin-bottom: 15px;
+    background-color: rgb(108, 153, 156) !important;
+    border-color: rgb(108, 153, 156);
+}
